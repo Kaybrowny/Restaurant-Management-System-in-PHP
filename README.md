@@ -50,7 +50,7 @@ In XAMPP, just create new database in phpmyadmin and import SQL file which is lo
 
 To access admin portal, type this in URL `root/admin/ ` where root is your root directory
 
-Admin credentials: Username: admin Password: admin123
+Admin credentials: Username: kayb Password: kayb123
 
 ## Technologies Used
 
